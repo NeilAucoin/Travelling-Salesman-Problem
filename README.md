@@ -59,3 +59,5 @@ robber_algorithm(df)
 
 # Solution
 My solution involved writing a greedy algorithm that operated off of a variable I created called "dynamic value ratio", which ranks banks based on available money, time required, and distance to current location. I started my algorithm from the "escape zone" in order to simplify the coding process by removing the need for an extra variable (calculating each bank's distance from the escape zone) or an exception in my function for the last bank visited.
+
+Full code solution, results, and further explanations can be found in the "Bank Heist Problem - Neil A.ipynb" file.

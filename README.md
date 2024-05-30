@@ -56,3 +56,6 @@ robber_algorithm(df)
 # Output is a list of bank IDs
 [OUTPUT] --> [664, 2341, 26, 998, 9583, 24, 1, 444, 6783]
 ```
+
+# Solution
+My solution involved writing a greedy algorithm that operated off of a variable I created called "dynamic value ratio", which ranks banks based on available money, time required, and distance to current location. I started my algorithm from the "escape zone" in order to simplify the coding process by removing the need for an extra variable (calculating each bank's distance from the escape zone) or an exception in my function for the last bank visited.

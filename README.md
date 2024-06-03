@@ -64,12 +64,17 @@ Full code solution, results, and further explanations can be found in the "Bank 
 
 # Results
 Here are some images of the project:
+
+Variables Used:
 ![Variables Used](https://github.com/NeilAucoin/Travelling-Salesman-Problem/blob/main/Assets/variables_used.PNG?raw=true)
 
+Dynamic Value Ratio:
 ![Dynamic Value Ratio](https://github.com/NeilAucoin/Travelling-Salesman-Problem/blob/main/Assets/dynamic_value_ratio.PNG?raw=true)
 
+Money Stolen and Banks Robbed in Order:
 ![Money and Banks](https://github.com/NeilAucoin/Travelling-Salesman-Problem/blob/main/Assets/money_and_banks.PNG?raw=true)
 
+Heist Time and Code Execution Time:
 ![Time Results](https://github.com/NeilAucoin/Travelling-Salesman-Problem/blob/main/Assets/time_results.PNG?raw=true)
 
 
